@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="uzuy.png" width="" height="" alt="Uzuy Logo" />  
+</p>
+
 <h1 align="center"><b>Uzuy Remastered</b>
 <br>
 <h4 align="center"><b>Uzuy Remastered</b> is the continuation to the popular, open-source, Nintendo Switch emulator — Uzuy
