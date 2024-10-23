@@ -9,5 +9,6 @@
 It is written in C++ and gives ultimate performance to every device — to low-end to high-end.
 </h4>
 
-# Development Progress
-The development progress is very slow as my internet isnt good, with this, i cant test frequently new games on the emulator. I will try my best.
+# Download
+
+- **Uzuy: MMJR** / AnTuTu version of Uzuy. Best for lowend devices. Can give heating problems.
