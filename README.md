@@ -11,4 +11,4 @@ It is written in C++ and gives ultimate performance to every device — to low-e
 
 # Download
 
-- **Uzuy: MMJR** / AnTuTu version of Uzuy. Best for lowend devices. Can give heating problems.
+- [**Uzuy: MMJR**](https://github.com/uzuy-remaster/uzuy/releases/tag/MMJR-1) / AnTuTu version of Uzuy. Best for lowend devices. Can give heating problems.
