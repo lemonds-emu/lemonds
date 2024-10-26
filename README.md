@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="uzuy.png" width="" height="" alt="Uzuy Logo" />  
+	<img src="skyushu.png" width="" height="" alt="Skyushu" />  
 </p>
 
 <h1 align="center"><b>Skyushu</b>
