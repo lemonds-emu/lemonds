@@ -12,3 +12,9 @@ It is written in C++ and gives ultimate performance to every device — to low-e
 # Screenshots
 - Super Mario Bros: Wonder - Snapdragon 460
 ![smvwsd460](https://github.com/user-attachments/assets/69b7eed8-35a2-4981-bd9a-7c22c6b0221b)
+
+# Downloads
+- [Skyushu AnTuTu V1](https://github.com/skyushu/skyushu/releases/tag/1.0.0) : Remove any AnTuTu app before installing. If a pop up like the one below pops up click show more and install anyway or install without analyzing.
+
+- **THIS IS BECAUSE OF THE PACKAGE NAME CHANGE!**
+![1000069875](https://github.com/user-attachments/assets/844a7338-28ee-44a1-a5fb-3731e6815878)
