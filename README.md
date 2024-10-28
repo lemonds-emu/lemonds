@@ -9,6 +9,10 @@
 It is written in C++ and gives ultimate performance to every device — to low-end to high-end.
 </h4>
 
+# Drivers
+- [Adreno](https://github.com/uzuy-emul/AdrenoDrivers)
+- [Mali](https://github.com/uzuy-emul/MaliDrivers/tree/main)
+
 # Screenshots
 - Super Mario Bros: Wonder - Snapdragon 460
 ![smvwsd460](https://github.com/user-attachments/assets/69b7eed8-35a2-4981-bd9a-7c22c6b0221b)
