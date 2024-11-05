@@ -2,9 +2,9 @@
 	<img src="uzuy.png" width="" height="" alt="Uzuy" />  
 </p>
 
-<h1 align="center"><b>Uzuy</b>
+<h1 align="center"><b>Uzuy Remastered</b>
 <br>
-<h4 align="center"><b>Uzuy</b> is the continuation to the famous Nintendo Switch emulator — yuzu.
+<h4 align="center"><b>Uzuy Remastered</b> is a known continuation to the famous Nintendo Switch emulator — Uzuy.
 <br>
 It is written in C++ and gives ultimate performance to every device — to low-end to high-end.
 </h4>
