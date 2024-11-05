@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="uzuy.png" width="" height="" alt="Uzuy" />  
+	<img src="20241105_140954.png" width="" height="" alt="Uzuy" />  
 </p>
 
 <h1 align="center"><b>Uzuy Remastered</b>
