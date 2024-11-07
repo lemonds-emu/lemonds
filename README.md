@@ -4,7 +4,7 @@
 
 <h1 align="center"><b>Uzuy Remastered</b>
 <br>
-<h4 align="center"><b>Uzuy Remastered</b> is an experimental continuation to the famous Nintendo Switch emulator — Uzuy.
+<h4 align="center"><b>Uzuy Remastered</b> is an experimental and non-profit continuation to the famous Nintendo Switch emulator — Uzuy.
 <br>
 It is written in C++ and gives ultimate performance to every device — to low-end to high-end.
 </h4>
