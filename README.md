@@ -18,8 +18,10 @@ It is written in C++ and gives ultimate performance to every device — to low-e
 ![smvwsd460](https://github.com/user-attachments/assets/69b7eed8-35a2-4981-bd9a-7c22c6b0221b)
 
 # Downloads
-- Grab the latest Uzuy build from the official [Github Releases](https://github.com/uzuy-emul/uzuy/releases/tag/revision-v5) page.
-
+## MMJR
+- Grab the latest Remastered Uzuy MMJR build from the official [Github Releases](https://github.com/uzuy-emul/uzuy/releases/tag/revision-v5) page.
+## Edge
+- Grab the latest Remastered Uzuy Edge build from the official [Github Releases](https://github.com/uzuy-emul/uzuy/releases/tag/revision-v5) page.
 ----
 If a pop up like the one below pops up click show more and install anyway or install without analyzing.
 - **THIS IS BECAUSE OF THE PACKAGE NAME CHANGE!**
