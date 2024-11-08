@@ -1,13 +1,28 @@
-<p align="center">
-	<img src="20241105_140954.png" width="" height="" alt="Uzuy" />  
-</p>
+<h1 align="center">
+  <br>
+  <img src="you-zu-y.png" alt="Uzuy Remastered" width=""></a>
+  <br>
+  <b>Uzuy</b>
+  <br>
+  <sub><sup><b>(YOU-ZU-Y)</b></sup></sub>
+  <br>
+    <a href="">
+        <img src=""
+            alt="">
+    </a>
+    <a href="https://github.com/uzuy-emul/uzuy/releases/latest">
+        <img src="https://img.shields.io/github/v/release/uzuy-emul/uzuy"
+            alt="Latest Release">
+    </a>
+</h1>
 
-<h1 align="center"><b>Uzuy Remastered</b>
-<br>
-<h4 align="center"><b>Uzuy Remastered</b> is an experimental and non-profit continuation to the famous Nintendo Switch emulator — Uzuy.
-<br>
-It is written in C++ and gives ultimate performance to every device — to low-end to high-end.
-</h4>
+<p align="center">
+  Uzuy is the ultimate Nintendo Switch emulator, originally created by the citra developers, and then continued by Phoenix.
+Uzuy Remastered is the continuation to Uzuy, but also Yuzu and it is written in C#.
+  This emulator aims at providing excellent accuracy and performance, a user-friendly interface and consistent builds.
+  Uzuy is available on Github under the <a href="https://github.com/uzuy-emul/uzuy/blob/master/LICENSE" target="_blank"> GNU GENERAL PUBLIC LICENSE</a>.
+  <br />
+</p>
 
 # Drivers
 - [Adreno](https://github.com/uzuy-emul/AdrenoDrivers)
