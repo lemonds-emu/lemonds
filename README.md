@@ -41,6 +41,6 @@ Uzuy Remastered is the continuation to Uzuy, but also Yuzu and it is written in 
 - MMJR is based off Uzuy. It may give better performance.
 - Edge is based off yuzu. It may give better performance on lowend devices.
 ----
-If a pop up like the one below pops up click show more and install anyway or install without analyzing.
+If a pop up like the one below pops up click show more and install anyway or install without analyzing. You can also click scan app, no threats will be shown.
 - **THIS IS BECAUSE OF THE PACKAGE NAME CHANGE!**
 ![1000069875](https://github.com/user-attachments/assets/844a7338-28ee-44a1-a5fb-3731e6815878)
