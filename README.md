@@ -34,7 +34,7 @@ Uzuy Remastered is the continuation to Uzuy, but also Yuzu and it is written in 
 
 # Downloads
 ## MMJR
-- Grab the latest Remastered Uzuy MMJR build from the official [Github Releases](https://github.com/uzuy-emul/uzuy/releases/tag/revision-v5) page.
+- Grab the latest Remastered Uzuy MMJR build from the official [Github Releases](https://github.com/uzuy-emul/uzuy/releases/latest) page.
 ## Edge
 - Grab the latest Remastered Uzuy Edge build from the official [Github Releases](https://github.com/uzuy-emul/uzuy/releases/tag/revision-v5) page.
 ## Difference
