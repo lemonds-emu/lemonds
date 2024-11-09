@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="remastered.png" alt="Uzuy Remastered" width=""></a>
+  <img src="remaster.png" alt="Uzuy Remastered" width=""></a>
   <br>
   <b>Uzuy</b>
   <br>
