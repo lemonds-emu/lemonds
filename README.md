@@ -39,7 +39,9 @@ Uzuy Remastered is the continuation to Uzuy, but also Yuzu and it is written in 
 - Grab the latest Remastered Uzuy Edge build from the official [Github Releases](https://github.com/uzuy-emul/uzuy/releases/tag/revision-v5) page.
 ## Difference
 - MMJR is based off Uzuy. It may give better performance on lowned and higher end devices. It also supports [custom mali drivers](https://github.com/uzuy-emul/MaliDrivers).
-- Edge is based off yuzu. It moves things to accuracy
+- Edge is based off yuzu. It moves things to accuracy instead of performance and is the more stable version.
+---
+You should get both versions!
 ----
 If a pop up like the one below pops up click show more and install anyway or install without analyzing. You can also click scan app, no threats will be shown.
 - **THIS IS BECAUSE OF THE PACKAGE NAME CHANGE!**
