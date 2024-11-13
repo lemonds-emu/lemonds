@@ -4,7 +4,7 @@
   <br>
   <b>Uzuy</b>
   <br>
-  <sub><sup><b>(YOU-ZU-Y)</b></sup></sub>
+  <sub><sup><b>(YOU-ZU-WHY)</b></sup></sub>
   <br>
     <a href="">
         <img src=""
