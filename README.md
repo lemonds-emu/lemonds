@@ -1,7 +1,2 @@
-# PREPARE...
-## THE REWRITE IS ALMOST FINISHED! 👀
-
-### Special Thanks for helping in the rewrite:
-- volta
-- asperga
-- alessandro
+discontinued...
+turning into something better, soon.
