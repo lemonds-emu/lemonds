@@ -6,7 +6,3 @@
 
 - ✨ LemonDS is a DS emulator which tries to mantain things simple-to-use. It tries to improve compatibility and performance for low-end devices.
 ---
-
-{LemondDS is based off melonDS}
-
----
