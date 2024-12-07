@@ -1,6 +1,6 @@
 <img src="ds.png" width="100px" align="left">
 
-### `🍋 Lemon DS`
+### `LemonDS`
 
 [![Downloads](https://img.shields.io/github/v/release/axterv2/citrus-ds)](https://github.com/axterv2/citrus-ds/releases/latest)
 
