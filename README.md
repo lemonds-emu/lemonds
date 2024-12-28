@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="auto" height="auto" src="base.png" alt="base" border="0">
+  <img width="210em" height="auto" src="base.png" alt="base" border="0">
 </div>
 <h1 align="center">
   <b>LemonDS</b>
