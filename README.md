@@ -1,7 +1,13 @@
-<img src="ds.png" width="100px" align="left">
+<div align="center">
+  <img width="auto" height="auto" src="base" alt="base" border="0">
+</div>
+<h1 align="center">
+  <b>LemonDS</b>
+</h1>
+<p align="center">
+Nintendo DS Emulator used to play backups of a DS cartridge on an Android device based off melonDS.
+</p>
+  <br/>
 
-### `LemonDS`
-
-[![Downloads](https://img.shields.io/github/v/release/axterv2/citrus-ds)](https://github.com/axterv2/citrus-ds/releases/latest)
-
-- 🍋 LemonDS is a DS emulator which tries to mantain things simple-to-use. It tries to improve compatibility and performance for low-end devices.
+### `Downloads`
+[![Nightly](https://img.shields.io/github/v/release/axterv2/citrus-ds)](https://github.com/axterv2/citrus-ds/releases/latest)
